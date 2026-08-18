@@ -1,4 +1,4 @@
 interface:
-  display_name: "诗意食物水彩拼贴"
-  short_description: "将食物照片变成可辨识的诗意水彩手帐拼贴创作与英文签语"
-  default_prompt: "Use $food-watercolor-study to transform this food photo into a poetic watercolor scrapbook collage with a food-linked English fortune."
+  display_name: "朴拙水彩诗意拼贴"
+  short_description: "将食物照片或静物元素变成朴拙水彩手帐拼贴创作与英文签语"
+  default_prompt: "Use $food-watercolor-study to turn this food photo or supplied still-life object list into a naive watercolor diary collage with a subject-linked English fortune."
