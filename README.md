@@ -16,7 +16,9 @@ The style deliberately avoids the signals of computer illustration: perfect geom
 
 The core page structure is a **poetic watercolor scrapbook collage** rather than a photo filter or polished menu illustration. It pairs a clearly recognisable focal subject with small subject echoes and lets them form a visual association.
 
-Its material language combines fibrous oatmeal paper, translucent granular pigment, blooms, deckled wash edges, dry-brush gaps, faint stains, irregular pale paper islands, and small vintage typewriter-style text. The page feels hand-painted, slightly awkward, quiet, and alive through natural visual rhythm: staggered placement, repeated colors/forms, partial overlap, and the direction of leaves, slices, or authentic drips. A visible line appears only when sauce, stem, steam, or another trace belongs naturally to the food; it is never drawn merely to force motion.
+Its material language combines clean cool-white fibrous paper, translucent granular pigment, blooms, deckled wash edges, dry-brush gaps, very faint neutral stains, irregular pale paper islands, and small vintage typewriter-style text. The page feels hand-painted, slightly awkward, quiet, and alive through natural visual rhythm: staggered placement, repeated colors/forms, partial overlap, and the direction of leaves, slices, or authentic drips. A visible line appears only when sauce, stem, steam, or another trace belongs naturally to the food; it is never drawn merely to force motion.
+
+The page is intentionally **not sepia-filtered**: at least half remains clean unpainted white, while yellow and amber appear only in actual food, flame, or light. White ceramic, glass, and neutral objects stay pale gray or gray-blue, which keeps the result airy and clean instead of globally yellow.
 
 ### Composition families
 
