@@ -85,15 +85,3 @@ Upload a food or drink photo—or provide a compact still-life or mixed-element 
 ### Fig and prosciutto salad — Botanical Drift
 
 ![Fig and prosciutto salad](examples/fig-salad.png)
-
-### Roasted cauliflower with onion ribbons — Quiet Diagram + Constellation
-
-![Roasted cauliflower with onion ribbons](examples/roasted-cauliflower.png)
-
-### Home-style chicken and vegetables — Scrapbook Islands
-
-![Home-style chicken and vegetables](examples/home-meal.png)
-
-### Iced matcha and mandarin — Orbit + Constellation
-
-![Iced matcha and mandarin](examples/iced-matcha-mandarin.png)
