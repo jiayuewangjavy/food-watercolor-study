@@ -1,4 +1,4 @@
 interface:
-  display_name: "食物水彩拆解"
-  short_description: "将用户食物照片转为清新水彩拆解插画与食材构图创作"
-  default_prompt: "Use $food-watercolor-study to transform this food photo into a fresh watercolor study."
+  display_name: "诗意食物水彩拼贴"
+  short_description: "将食物照片变成可辨识的诗意水彩手帐拼贴创作与英文签语"
+  default_prompt: "Use $food-watercolor-study to transform this food photo into a poetic watercolor scrapbook collage with a food-linked English fortune."
