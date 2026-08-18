@@ -1,6 +1,6 @@
-# Food Watercolor Study
+# Watercolor Diary
 
-Turn food and drink photos into recognisable poetic visual diaries: naive watercolor, handmade-paper collage, food-derived symbols, and a short English fortune woven into the page.
+Turn food，drink or photos into recognisable poetic visual diaries: naive watercolor, handmade-paper collage, food-derived symbols, and a short English fortune woven into the page.
 
 The skill keeps a dish's cooking state, key pairings, and serving relationship, while removing the original setting and simplifying incidental detail.
 
